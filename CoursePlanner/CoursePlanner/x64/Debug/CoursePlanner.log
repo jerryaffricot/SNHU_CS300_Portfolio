@@ -1,0 +1,5 @@
+﻿  CoursePlanner.cpp
+C:\Users\crims\OneDrive\Documents\projects\VisualStudio\CS300\CoursePlanner\CoursePlanner\CoursePlanner.cpp(212,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crims\OneDrive\Documents\projects\VisualStudio\CS300\CoursePlanner\CoursePlanner\CoursePlanner.cpp(216,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crims\OneDrive\Documents\projects\VisualStudio\CS300\CoursePlanner\CoursePlanner\CoursePlanner.cpp(217,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CoursePlanner.vcxproj -> C:\Users\crims\OneDrive\Documents\projects\VisualStudio\CS300\CoursePlanner\x64\Debug\CoursePlanner.exe
